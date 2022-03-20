@@ -1,7 +1,7 @@
 {
   "name": "test",
   "symbol": "test",
-  "image": "https://raw.githubusercontent.com/ZYJLiu/assets/main/pngegg.png",
+  "image": "https://raw.githubusercontent.com/ZYJLiu/assets/main/0x0.jpg",
   "description": "Test",
   "seller_fee_basis_points": 818,
   "collection": {
@@ -17,7 +17,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/ZYJLiu/assets/main/pngegg.png",
+        "uri": "https://raw.githubusercontent.com/ZYJLiu/assets/main/0x0.jpg",
         "type": "image/jpg"
       }
     ],
