@@ -2,7 +2,7 @@
   "name": "test",
   "symbol": "test",
   "image": "https://raw.githubusercontent.com/ZYJLiu/assets/main/university-of-texas-Logo.jpg",
-  "description": "This NFT was minted at the first ever Metaplex x FTX US Solana LA Hacker House on Saturday February 5th, 2022.",
+  "description": "Test",
   "seller_fee_basis_points": 818,
   "collection": {
     "name": "test",
