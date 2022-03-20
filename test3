@@ -1,0 +1,32 @@
+{
+  "name": "test",
+  "symbol": "test",
+  "image": "https://raw.githubusercontent.com/ZYJLiu/assets/main/university-of-texas-Logo.jpg",
+  "description": "Test",
+  "seller_fee_basis_points": 818,
+  "collection": {
+    "name": "test",
+    "family": "test"
+  },
+  "attributes": [
+    {
+      "trait_type": "Vibes",
+      "value": "Good"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ZYJLiu/assets/main/university-of-texas-Logo.jpg",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4B65V1ySBG35UbStDTUDvBTXRfxh6v5tRbLnVrVLpYD2",
+        "share": 100
+      }
+    ]
+  }
+}
