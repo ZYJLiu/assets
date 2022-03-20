@@ -1,7 +1,7 @@
 {
   "name": "test",
   "symbol": "test",
-  "image": "https://raw.githubusercontent.com/ZYJLiu/assets/main/utaustin_logo.jpg.jpg",
+  "image": "https://raw.githubusercontent.com/ZYJLiu/assets/main/utaustin_logo.jpg",
   "description": "Test",
   "seller_fee_basis_points": 818,
   "collection": {
@@ -17,7 +17,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/ZYJLiu/assets/main/utaustin_logo.jpg.jpg",
+        "uri": "https://raw.githubusercontent.com/ZYJLiu/assets/main/utaustin_logo.jpg",
         "type": "image/jpg"
       }
     ],
